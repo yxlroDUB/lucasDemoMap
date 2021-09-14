@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96a1e865-c765-41d8-a070-ad9ff5138986" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/java/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/app/src/main/java/com/huawei/hms/maps/sample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/app/src/main/java/com/huawei/hms/maps/sample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/app/src/main/java/com/huawei/hms/maps/sample/utils/MapUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/app/src/main/java/com/huawei/hms/maps/sample/utils/MapUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/app/src/main/java/com/huawei/hms/maps/sample/utils/NetClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/app/src/main/java/com/huawei/hms/maps/sample/utils/NetClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/assets/images/niuyouguo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/BasicMapDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/CameraDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/CircleDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/ControlsDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/EventsDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/GestureDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/GroundOverlayDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/LiteModeDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/LocationSourceDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/MapFragmentCodeDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/MapFragmentDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/MapFunctionsDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/MapViewCodeDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/MapViewDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/MarkerClusteringDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/MarkerDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/MoreLanguageDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/PolygonDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/PolylineDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/RoutePlanningDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/StyleMapDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/SupportMapCodeDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/SupportMapDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/utils/CheckUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/utils/MapUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/utils/MyItemReader.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/utils/NetClient.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/java/com/huawei/hms/maps/sample/utils/NetworkRequestManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/drawable/badge_bj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/drawable/badge_nj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/drawable/badge_ph.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/drawable/badge_sh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/drawable/badge_tr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/drawable/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/drawable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/drawable/makalong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/drawable/niuyouguo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/acitivity_litemode_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/acitivity_map_founctions_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/acitvity_traffic_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_basic_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_camera_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_circle_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_controls_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_events_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_gestures_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_groudoverlay_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_locationsource_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_mapfragment_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_mapfragmentcode_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_mapview_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_mapviewcode_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_marker_clustering_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_marker_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_more_language_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_polygon_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_polyline_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_route_planning_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_style_map_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_supportmapcode_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/activity_supportmapfragment_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/custom_info_contents.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/layout/custom_info_window.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/raw/mapstyle_grayscale_hms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/raw/mapstyle_night_hms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/raw/mapstyle_retro_hms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/raw/marker_200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1y2Rlz89ssFgPAEqwo8IHTdW9Xj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96a1e865-c765-41d8-a070-ad9ff5138986" name="Default Changelist" comment="" />
+      <created>1631447852642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631447852642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

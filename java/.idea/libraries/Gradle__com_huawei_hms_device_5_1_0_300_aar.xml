@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:device:5.1.0.300@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a01c53277108c37152f44955b3668362/device-5.1.0.300/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/33b543033ebc2af71dfa5f9b5a249adb/transformed/device-5.1.0.300/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/16b8eeef4dd9b220b2071dd2081c2f61/transformed/jetified-device-5.1.0.300/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fc5a983556405772f6fd538815f97e87/transformed/device-5.1.0.300/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/67e0f49cd1d600de5e4208fac7e7df2f/transformed/jetified-device-5.1.0.300/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/67e0f49cd1d600de5e4208fac7e7df2f/transformed/jetified-device-5.1.0.300/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/67e0f49cd1d600de5e4208fac7e7df2f/transformed/jetified-device-5.1.0.300/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/device/5.1.0.300/da39a3ee5e6b4b0d3255bfef95601890afd80709/device-5.1.0.300-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/device/5.1.0.300/da39a3ee5e6b4b0d3255bfef95601890afd80709/device-5.1.0.300-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

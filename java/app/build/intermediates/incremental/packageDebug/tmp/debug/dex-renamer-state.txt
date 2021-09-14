@@ -1,0 +1,4 @@
+#Tue Sep 14 10:24:52 BST 2021
+base.0=C\:\\lucasDemoMap\\java\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

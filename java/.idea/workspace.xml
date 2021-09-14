@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37e9514b-c9d7-4e8d-b8be-2dcd992a0c93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/BasicMapDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/CameraDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/CircleDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/ControlsDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/EventsDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/GestureDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/GroundOverlayDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/LiteModeDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/LocationSourceDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/MapFragmentCodeDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/MapFragmentDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/MapFunctionsDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/MapViewCodeDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/MapViewDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/MarkerClusteringDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/MarkerDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/MoreLanguageDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/PolygonDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/PolylineDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/RoutePlanningDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/StyleMapDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/SupportMapCodeDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/SupportMapDemoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/utils/CheckUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/utils/MapUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/utils/MyItemReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/utils/NetClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/huawei/hms/maps/sample/utils/NetworkRequestManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/assets/images/niuyouguo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/BasicMapDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/CameraDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/CircleDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/ControlsDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/EventsDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/GestureDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/GroundOverlayDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/LiteModeDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/LocationSourceDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/MapFragmentCodeDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/MapFragmentDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/MapFunctionsDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/MapViewCodeDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/MapViewDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/MarkerClusteringDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/MarkerDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/MoreLanguageDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/PolygonDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/PolylineDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/RoutePlanningDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/StyleMapDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/SupportMapCodeDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/SupportMapDemoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/utils/CheckUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/utils/MapUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/utils/MyItemReader.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/utils/NetClient.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/java/com/huawei/hms/maps/sample/utils/NetworkRequestManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/drawable/badge_bj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/drawable/badge_nj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/drawable/badge_ph.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/drawable/badge_sh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/drawable/badge_tr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/drawable/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/drawable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/drawable/makalong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/drawable/niuyouguo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/acitivity_litemode_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/acitivity_map_founctions_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/acitvity_traffic_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_basic_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_camera_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_circle_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_controls_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_events_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_gestures_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_groudoverlay_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_locationsource_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_mapfragment_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_mapfragmentcode_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_mapview_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_mapviewcode_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_marker_clustering_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_marker_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_more_language_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_polygon_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_polyline_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_route_planning_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_style_map_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_supportmapcode_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/activity_supportmapfragment_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/custom_info_contents.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/layout/custom_info_window.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/raw/mapstyle_grayscale_hms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/raw/mapstyle_night_hms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/raw/mapstyle_retro_hms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/raw/marker_200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Lucas Yin\.android\avd\Pixel_5_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\hms-mapkit-demo\java\app\lucasDemoMap.jks" />
+    <option name="KEY_ALIAS" value="lucasDemoMap" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1y2RyFdYk8WUJY5E55TpQ0XQwJ9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="java.app" />
+    <property name="ExportApk.ApkPath" value="C:\hms-mapkit-demo\java\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../hms-samples - Copy/hms-mapkit-demo/java" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradlew build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="java.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.java [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37e9514b-c9d7-4e8d-b8be-2dcd992a0c93" name="Default Changelist" comment="" />
+      <created>1631447949681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631447949681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

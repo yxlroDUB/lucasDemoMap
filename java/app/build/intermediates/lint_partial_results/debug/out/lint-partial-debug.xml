@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.0.0" type="partial_results">
+    <map id="UnusedResources">
+        <location id="R.layout.acitvity_traffic_demo"
+            file="$APP/src/main/res/layout/acitvity_traffic_demo.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="64"
+            endColumn="16"
+            endOffset="2256"/>
+        <location id="R.mipmap.ic_launcher"
+            file="$APP/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="5"
+            endColumn="17"
+            endOffset="272"/>
+        <location id="R.string.move_the_camera"
+            file="$APP/src/main/res/values/strings.xml"
+            line="8"
+            column="13"
+            startOffset="381"
+            endLine="8"
+            endColumn="35"
+            endOffset="403"/>
+        <location id="R.string.styled_map"
+            file="$APP/src/main/res/values/strings.xml"
+            line="4"
+            column="13"
+            startOffset="140"
+            endLine="4"
+            endColumn="30"
+            endOffset="157"/>
+        <location id="R.layout.acitivity_litemode_demo"
+            file="$APP/src/main/res/layout/acitivity_litemode_demo.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="26"
+            endColumn="16"
+            endOffset="864"/>
+        <location id="R.string.toLatlng"
+            file="$APP/src/main/res/values/strings.xml"
+            line="6"
+            column="13"
+            startOffset="263"
+            endLine="6"
+            endColumn="28"
+            endOffset="278"/>
+        <entry
+            name="model"
+            string="color[colorPrimary(U),colorPrimaryDark(U),colorAccent(U),white(U)],drawable[bg(U),icon(U),badge_bj(U),ic_launcher_foreground(U),badge_tr(U),niuyouguo(U),ic_launcher_background(U),badge_nj(U),makalong(U),badge_ph(U),ic_launcher_foreground_1(R),badge_sh(U)],id[mapInCamera(U),isZoomGesturesEnabled(D),centerLatitude(U),polylineTag(U),setSnippet(D),centerLongtitude(U),edt_snippet(U),contentWindow(D),paddingleft(U),btn_set_camera(D),btn_supportMapFragment(D),setMarkerIcon(D),removePolyline(D),edt_origin_lat(U),BasicMap(U),oneLongtitude(U),newLatLngBounds(U),btn_mapFragmentCode(D),edt_tag(U),edt_camera_zoom(U),edt_destination_lat(U),mapfragment_markerdemo(U),moveCamera(U),toprightLatitude(U),logo_padding_end(U),getMapType(D),edt_preview_id(U),btn_mapFragment(D),mapInLanguage(U),txtv_snippett(U),Set3DMode(D),edt_camera_tilt(U),markerdemo_result_shown(U),logo_padding_start(U),textIsTrafficed(D),isRotateGesturesEnabled(D),mapInCircle(U),mapInGroundOverlay(U),groundOverlayShown(U),isScrollGesturesEnabled(D),ZoomBy(U),bottomleftLatitude(U),oneLatitude(U),mapInTraffic(U),positionLatitude(U),frame_mapfragmentcode(U),addPolygon(D),mapInPolyline(U),mapInFunctions(U),btn_set_destination(D),mapInLiteMode(U),cameraLng(U),map(U),txtv_titlee(U),getBicyclingRouteResult(D),getMinZoomLevel(D),setPadding(D),mapInPolygon(U),supportMap(U),btn_set_marker_Anchor(D),positionLongtitude(U),setMaxZoomPreference(D),cameraChange(U),getMaxZoomLevel(D),mapFragment(U),edt_camera_lat(U),imageHeight(U),circleRadius(U),isShowCompass(D),circleShown(U),founctionsshow(U),dragMarker(D),logo_padding_bottom(U),removePolygon(D),circleStokeWidth(U),setMinZoomPreference(D),getCameraPosition(U),cameraZoom(U),toPoint(U),bottomleftLongtitude(U),customWindow(D),cameraTilt(U),edt_origin_lng(U),btn_mapView(D),setCameraPosition(U),toLatlng(U),groundOverlayTag(U),tap_text(U),edt_style_id(U),logo_padding_top(U),imageWidth(U),resetMinMaxZoomPreference(D),cameraLat(U),cameraBearing(U),setTitle(D),btn_show_info_window(D),mapInGestures(U),deleteMarker(D),isShowMylocationButton(U),edt_camera_bearing(U),edt_destination_lng(U),polygonTag(U),disableTraffic(D),edt_title(U),btn_set_origin(D),getIsTrafficEnabled(D),mapfragment_routeplanningdemo(U),mapForLocationDemo(U),btn_mapViewCode(D),isShowZoomButton(D),isMyLocationLayerEnabled(U),mapView(U),circleTag(U),btn_supportMapFragmentCode(D),adda(D),defaultWindow(D),animateCamera(U),maxZoomlevel(U),frame_supportmapcode(U),paddingbottom(U),getDrivingRouteResult(D),imgv_badge(U),isTiltGesturesEnabled(D),tagTest(D),enableTraffic(D),paddingright(U),polylineStokeWidth(U),mapInControls(U),btn_hide_window(D),setMapType(D),toprightLongtitude(U),is3DMode(D),map_container_layout(U),polygonShown(U),addPolyline(D),getWalkingRouteResult(D),MapFunctions(U),edt_camera_lng(U),minZoomlevel(U),paddingtop(U),polylineShown(U),addMarker(D)],layout[activity_mapviewcode_demo(D),activity_groudoverlay_demo(U),activity_basic_demo(U),activity_camera_demo(U),custom_info_window(U),activity_circle_demo(U),activity_main(U),activity_polyline_demo(U),activity_supportmapcode_demo(U),activity_mapfragment_demo(U),activity_marker_clustering_demo(U),activity_gestures_demo(U),activity_locationsource_demo(U),activity_mapview_demo(U),acitvity_traffic_demo(D),acitivity_map_founctions_demo(U),activity_controls_demo(U),activity_mapfragmentcode_demo(U),activity_polygon_demo(U),custom_info_contents(U),activity_route_planning_demo(U),acitivity_litemode_demo(D),activity_more_language_demo(U),activity_events_demo(U),activity_marker_demo(U),activity_style_map_demo(U),activity_supportmapfragment_demo(U)],mipmap[ic_launcher_round(U),ic_launcher(D)],raw[mapstyle_retro_hms(U),marker_200(U),mapstyle_grayscale_hms(U),mapstyle_night_hms(U)],string[move_the_camera(D),styled_map(D),title_activity_main(D),tap_instructions(U),toPoint(U),app_name(U),toLatlng(D)],style[Theme_AppCompat_Light_DarkActionBar(R),Theme_AppCompat_Light_NoActionBar(R),AppTheme(U)];7^e,a2^4^d,b5^3^c2^c3,b9^a^7,ba^a^7,c8^c6^0^1^2;;;"/>
+        <location id="R.string.title_activity_main"
+            file="$APP/src/main/res/values/strings.xml"
+            line="3"
+            column="13"
+            startOffset="76"
+            endLine="3"
+            endColumn="39"
+            endOffset="102"/>
+        <location id="R.layout.activity_mapviewcode_demo"
+            file="$APP/src/main/res/layout/activity_mapviewcode_demo.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="11"
+            endColumn="16"
+            endOffset="386"/>
+    </map>
+
+</incidents>
