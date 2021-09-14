@@ -1,5 +1,7 @@
 # lucasDemoMap
 
+APK name: MapKitSampleCode-5.3.0.300.apk
+------------
 
 Testing device: Huawei P30 Lite
 ------------
